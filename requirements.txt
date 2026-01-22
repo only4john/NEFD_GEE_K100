@@ -1,0 +1,10 @@
+earthengine-api
+pandas
+numpy
+folium
+matplotlib
+plotly
+seaborn
+scipy
+scikit-learn
+tqdm

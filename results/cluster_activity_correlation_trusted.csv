@@ -1,0 +1,3 @@
+Target,Strict_Hit_Rate,Median_R,Median_P,Median_Ratio,Recipe
+delta_Abrupt_R_S,10,0.7186472779662634,3.4584059796147845e-06,0.6208137031550625,cluster_12(100%)
+delta_Abrupt_R_L,8,0.6468844203132241,6.428841194187722e-05,1.2498890337495543,"cluster_12(60%), cluster_14(40%), cluster_65(20%)"
